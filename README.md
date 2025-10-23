@@ -11,5 +11,6 @@ python polypstats_launcher.py
 #if current paths are already set (last.txt exists) you can launch polypstats.py directly
 python polypstats.py 
 
+![A screenshot of the tool](docs/tool.png)
 
 
