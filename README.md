@@ -1,4 +1,4 @@
-# polypstats
+# coralab
 
 #to install all required modules run
 pip install -r requirements.txt
@@ -12,5 +12,6 @@ python polypstats_launcher.py
 python polypstats.py 
 
 ![A screenshot of the tool](docs/tool.png)
+
 
 
